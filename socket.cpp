@@ -60,6 +60,4 @@ int Socket::set_socket(){
 
     return 0;
 
-
 }
-
